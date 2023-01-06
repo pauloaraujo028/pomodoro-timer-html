@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-    <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-features">Features</a>
 </p>
 
@@ -13,19 +13,17 @@
 <h3 align="center">
     <img src="./.github/readme-gif.gif" alt="project gif" height="400px">
     <br>
-    <a href="https://erickks.github.io/pomodoro-timer/">live demo</a>
+    <a href="https://pauloaraujo028.github.io/pomodoro-timer-html/">live demo</a>
 </h3>
 
 <br><hr>
 
-## 📚 Project
-<p>This project was developed to practice logic and DOM manipulation.</p>
-<p>Of course, it's not the best project ever, but I did my best. As this project is on Youtube, I can't modify the code.</p>
-<a href="https://www.youtube.com/watch?v=sYFR4NJkrFc&t=523s">Check my video</a>
+## 📚 Projeto
+<p>Este projeto foi desenvolvido para praticar lógica e manipulação de DOM.</p>
 
 <br><br>
 
-## 🖥 Technologies
+## 🖥 Tecnologia
   * [Html](https://www.w3schools.com/html/)
   * [Css](https://www.w3schools.com/css/)
   * [Javascript](https://www.javascripttutorial.net/)
@@ -33,6 +31,6 @@
 <br>
 
 ## 🧾 Features
-- [x] Work time = 25 minutes
-- [x] Break time = 5 minutes
-- [x] Timer reset button
+- [x] Trabalhar/Estudar time = 25 minutos
+- [x] Pausa = 5 minutos
+- [x] Botão de Resetar o Tempo
